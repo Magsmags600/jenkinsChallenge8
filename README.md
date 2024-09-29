@@ -55,7 +55,7 @@ Stop the car.
 
 # Links
 
-## https://github.com/Magsmags600/jenkinsChallenge8
+## Repo Link https://github.com/Magsmags600/jenkinsChallenge8
 
-## Video Link here
+## Video Link https://drive.google.com/file/d/1MwpQKugyl3JH1XYNqQFmr4YEybbtJuxB/view
 
